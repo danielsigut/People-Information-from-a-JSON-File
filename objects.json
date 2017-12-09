@@ -1,0 +1,29 @@
+[{
+  "people": [
+    {
+      "name": "Daniel",
+      "hobby": "programming",
+      "personality": "outgoing"
+    },
+    {
+      "name": "Robert",
+      "hobby": "flipping pack",
+      "personality": "angry"
+    },
+    {
+      "name": "John",
+      "hobby": "wrestling",
+      "personality": "overwhelming"
+    },
+    {
+      "name": "Asmongold",
+      "hobby": "playing World of Warcraft",
+      "personality": "funny"
+    },
+    {
+      "name": "Lily",
+      "hobby": "gardening",
+      "personality": "loving"
+    }
+  ]
+}]
